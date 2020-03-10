@@ -1,0 +1,8 @@
+Roteiro de aula
+
+-Porque controlar versão
+-Como controlar o bagui
+-Ferramentas
+-Conceitos
+-- Init
+-São Paulo hexacampeao

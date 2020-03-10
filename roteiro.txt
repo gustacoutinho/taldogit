@@ -5,4 +5,9 @@ Roteiro de aula
 -Ferramentas
 -Conceitos
 -- Init
+- git init
+- touch roteiro.txt(cria o arquivo)
+- ls - la(mostra varias paradas)
+- git add roteiro.txt(adiciona no historico)
+- git commit -m(repositório)
 -São Paulo hexacampeao brasileiro

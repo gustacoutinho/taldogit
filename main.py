@@ -1,1 +1,1 @@
-oi
+print('ola mundo')

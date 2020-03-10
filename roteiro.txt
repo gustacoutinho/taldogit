@@ -10,4 +10,8 @@ Roteiro de aula
 - ls - la(mostra varias paradas)
 - git add roteiro.txt(adiciona no historico)
 - git commit -m(repositório)
+- git log
+- git status
+- git push
+- git fetch
 -São Paulo hexacampeao brasileiro
